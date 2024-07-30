@@ -7,9 +7,9 @@ Web Developer
 I'm a full stack developer who loves react and node
 
 * 🌍  I'm based in Vietnam
-* 🖥️  See my portfolio at [MyPortfolio](http://junenghia.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://junenghia.netlify.app)
 * ✉️  You can contact me at [nguyenminhtrungnghia@gmail.com](mailto:nguyenminhtrungnghia@gmail.com)
-* 🚀  I'm currently working on [UniQuiz](http://(s)://uniquiz.online)
+* 🚀  I'm currently working on [UniQuiz](https://uniquiz.online)
 * 🧠  I'm learning Nextjs and Nestjs
 * 🤝  I'm open to collaborating on BSC KPI
 * ⚡  Besides programming, I also know how to sing with musical instruments to flirt with girls, but don't tell my girlfriend 🤫
